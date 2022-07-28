@@ -1,5 +1,10 @@
 ## File-Utility ##
-This utlity program allows for the viewing of a file or copying of a file to a directory and was initially developed without the usage of version control.
+
+This utlity program allows for the viewing of a file or copying of a file to a directory employing low-level operations - *system calls*, with the C programming langauge.
+
+This project was initially developed without the usage of version control.
+
+## Context ##
 
 If no source path has been provided, utility will read the contents of *sample.txt* from the directory that the program resides in. 
 
