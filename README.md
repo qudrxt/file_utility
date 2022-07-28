@@ -30,9 +30,9 @@ Instead of writing to standard output, the utility is able to copy the content i
 
 * *-n* (--numlines) - allows the user to specify the m number of lines that should be displayed or copied
 
-* *-d* (--destdir) - allows the user to input a path for the destination directory for copying the source file. It must be an absolute path that begins and ends with a '/' character
+* *-d* (--destdir) - allows the user to input a path for the destination directory for copying the source file. It must be an absolute path that begins and ends with a */* character
 
-* *-L* - switches the utility to 'tail' mode where the display or copying of the file is performed on the last 10 or m number of lines
+* *-L* - switches the utility to *tail* mode where the display or copying of the file is performed on the **last** 10 or m number of lines
 
 ## Execution ##
 
