@@ -7,7 +7,7 @@ If a source path has been provided, it must be the **first** argument when execu
 
 On default, the utility reads the **first 10 lines** - entire file if it has less than 10 lines, and writes the content of these lines to standard output.
 
-The number of lines read can be modified by employing the *-n* argument followed by the number of lines desired. This will read the desired number of lines from the **start** of the file.
+The number of lines read can be modified by employing the *-n* argument followed by the number of lines desired, will read the desired number of lines from the **start** of the file.
 
 The position of reading can be changed by employing the *-L* argument which modifies to reading to read the **last** m number of lines. 
 
