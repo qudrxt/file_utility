@@ -10,9 +10,7 @@
 	A file utility that provides the simplified features of the Linux utilities:
 	head, tail, cat and cp.
 	
-	:author: Qudrat Razi (31499031)
-	:start: 20/08/2021
-	:last: 26/08/2021
+	:author: Qudrat Razi
 */
 
 int getNumberOfLines(int fd)
