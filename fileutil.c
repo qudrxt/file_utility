@@ -260,6 +260,5 @@ int main(int argc, char *argv[])
 	// All resources are freed regardless of program failure 
 
 	close(fd);
-
 	return exitValue;
 }
