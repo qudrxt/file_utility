@@ -36,7 +36,7 @@ Instead of writing to standard output, the utility is able to copy the content i
 
 ## Execution ##
 
-* The successful execution of the program requires the following **exact ordering** in its invocation - `./(executable program name) [sourcefile] [-n numlines] [-d destdir] [-L]`
+* The successful execution of the program requires the following **exact ordering** in its invocation - `./(executable program name) [sourcefile]? [-n numlines]? [-d destdir]? [-L]?`
 
 ## Status codes ##
 
