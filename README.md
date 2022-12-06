@@ -43,3 +43,4 @@ Instead of writing to standard output, the utility is able to copy the content i
 * *0* - successful program execution
 * *1* - opening file existance exception
 * *2* - directory path or creating file existence exception
+
